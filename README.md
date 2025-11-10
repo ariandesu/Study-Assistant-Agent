@@ -85,3 +85,5 @@ Implement On-Demand AI Help for Misunderstood Topics
 Notes: Develop interactive Q&A interface. AI leverages user materials for contextual answers. Provides concise notes, relevant book sections, YouTube videos, and tailored summaries. Include feedback mechanism.
 Develop Intuitive Frontend User Interface (UI) and User Experience (UX)
 Notes: Design dashboard, material organization UI, upload/management UI, notification/settings UI, and AI feature interaction interfaces. Ensure responsiveness for web (future mobile app).
+
+LIVE FRONT-END DEMO LINK: https://study-assistant-agent.vercel.app/
